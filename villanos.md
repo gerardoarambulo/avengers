@@ -2,4 +2,3 @@
 
 * Jocker
 * Pinguino
-* Capitán America
